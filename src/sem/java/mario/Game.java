@@ -23,7 +23,7 @@ import sem.java.mario.input.KeyInput;
 public class Game extends Canvas implements Runnable
 {
 	/**
-	 * 
+	 * dfgd
 	 */
 	
 	int frame =0 ;
