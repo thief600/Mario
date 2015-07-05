@@ -16,7 +16,7 @@ import sem.java.mario.tile.PowerUpBlock;
 import sem.java.mario.tile.Tile;
 import sem.java.mario.tile.Wall;
 
-
+/*Fiksno */
 public class Handler
 {
 	public LinkedList<Entity> entity = new LinkedList<Entity>();
